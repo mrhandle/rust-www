@@ -172,6 +172,10 @@ h2 {
 	margin: 1em auto 1em auto;
 }
 
+#install-box .install-note {
+	font-size: 55%;
+}
+
 .version-rec-box {
 	width: 10em;
 	display: inline-block;
